@@ -1,0 +1,23 @@
+figure {
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    font-family: sans-serif;
+    background-color: lightblue;
+    border-style: dotted;
+    border-color: lightgreen;
+    padding: 10px;
+    vertical-align: top;
+    margin: 0;
+}
+
+figure > img {
+    background-color: white;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+figure > h1 {
+    margin: 0;
+    text-align: center;
+}
