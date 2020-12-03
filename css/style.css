@@ -255,6 +255,12 @@ html {
     padding-bottom: 15rem;
 }
 
+.blog12/3 {
+    width: 100%;
+    background-color: #f5f5f5;
+    padding-bottom: 15rem;
+}
+
 .section-header {
     display: flex;
     flex-direction: column;
